@@ -1,29 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Margott thoughs
 
 You can use the [editor on GitHub](https://github.com/margott-al/margott-al.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Rreth ketij site
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ketu do te ndaj me ju opinionet e mia shume ose jo shume popullore dhe gjera per te cilat te gjithe duhet te shqetesohemi dhe t'i shperndajme ndaj nje publiku me te gjere.
 
-```markdown
-Syntax highlighted code block
+* ambienti dhe ndryshimet klimaterike
+* riciklimi, mbajtja paster e tokes dhe mosshperdorimi i resurseve
+* barazia gjinore dhe njerezore
+* teknologji: si ta perdorni per t'u dukur me serioze dhe te sukseshem ne marredheniet profesionale
+* te fitosh para ne menyre etike
+* te marresh njohuri ne menyre te vazhdueshme ne lidhje me gjerat qe te interesojne
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+Me shume detaje do te shtoj se shpejti. 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
